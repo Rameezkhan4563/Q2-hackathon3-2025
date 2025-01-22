@@ -33,10 +33,5 @@ Experience the project live: [Hackathon E-Commerce Website](https://hackthone-tw
 - Enhancing design skills to create user-friendly interfaces.
 - Using headless CMS solutions for scalable and efficient content management.
 
-## 🙌 Acknowledgments
-
-- **Teacher’s Support:** Special thanks to **Sir Okasha Aijaz** and **Sir Ameen Alam** for their invaluable guidance and encouragement.
-- **Hackathon Organizers:** For providing a platform to challenge my skills and learn.
-
 
 
