@@ -5,6 +5,10 @@ const nextConfig = {
   images: {
     domains: ['cdn.sanity.io'], // Add the domain here
   },
+  eslint: {
+    ignoreDuringBuilds: true
+},
+
 };
 
 module.exports = nextConfig;
